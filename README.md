@@ -16,6 +16,11 @@ Explore your personal google location data. Built using http://leafletjs.com/
 
 5. Open `location.html` in your browser.
 
+6. See how it compares to Google's [location history tool](https://myactivity.google.com/more-activity)
+
+![Comparison](https://raw.githubusercontent.com/digitalWestie/googdata-explorer/master/comparison.png)
+
+
 ## Todo
 
 - Improve popup display
