@@ -20,6 +20,10 @@ Explore your personal google location data. Built using http://leafletjs.com/
 
 - Improve popup display
 
+## Troubleshooting 
+
+If no results are showing in Chromium browser due to a [parsing issue](https://github.com/digitalWestie/googdata-explorer/issues/1), try using another browser (e.g. Firefox).  
+
 ## Licence (MIT, have fun)
 
 MIT License
