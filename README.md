@@ -14,7 +14,11 @@ Explore your personal google location data. Built using http://leafletjs.com/
 
 4. Rename it to `history.json` replacing the example
 
-5. Open `index.html` in your browser.
+5. Open `location.html` in your browser.
+
+## Todo
+
+- Improve popup display
 
 ## Licence (MIT, have fun)
 
