@@ -6,7 +6,7 @@ Explore your personal google location data. Built using http://leafletjs.com/
 
 ## To use
 
-1. Download your google data (including locations obvs). 
+1. [Download your google location data (in json format)](https://takeout.google.com/settings/takeout). 
 
 2. Once downloaded copy the file called `Location History.json` in the Location History folder
 
