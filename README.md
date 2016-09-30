@@ -2,6 +2,8 @@
 
 Explore your personal google location data. Built using http://leafletjs.com/ 
 
+![Preview of location map](https://raw.githubusercontent.com/digitalWestie/googdata-explorer/master/preview.png)
+
 ## To use
 
 1. Download your google data (including locations obvs). 
