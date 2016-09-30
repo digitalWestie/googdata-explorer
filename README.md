@@ -1,6 +1,6 @@
 # Google Personal Location Data Explorer
 
-Explore your personal google location data
+Explore your personal google location data. Built using http://leafletjs.com/ 
 
 ## To use
 
